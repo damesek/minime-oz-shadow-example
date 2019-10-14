@@ -1,7 +1,7 @@
 # A MiniMe example of reagent + shadow-cljs + "Oz" setup
 
 I had issues to integrate to a large project the OZ dependency (dependecy conflicts.. I can't solve). 
-Therefore I extracted the important part of the code.
+Therefore I extracted the important part of the code. It might be useful for others too..
 
 
 I modified for this example the https://github.com/ivanminutillo/reagent-shadow-oz-example code.
