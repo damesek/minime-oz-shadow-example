@@ -17,6 +17,7 @@ Clone the demo
 git clone https://github.com/damesek/minime-oz-shadow-example.git
 ```
 
+
 Enter the project and install the needed dependencies
 
 ```
