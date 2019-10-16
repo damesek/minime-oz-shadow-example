@@ -10,6 +10,9 @@ I modified for this example the https://github.com/ivanminutillo/reagent-shadow-
 2. Works with any versions of Vega
 3. Few lines (Shadow-cljs)
 
+Don't forget: Specification of schema need to be same version of your added node npm package (eg. v3.4 > 3.4.0). <BR>
+```... :$schema "https://vega.github.io/schema/vega-lite/v3.4.json" ... ```
+
 ## Usage
 Clone the demo
 
