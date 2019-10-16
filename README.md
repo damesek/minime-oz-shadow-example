@@ -1,6 +1,6 @@
 
 # I created a mini Vega lib for shadow-cljs projects <BR>
-https://github.com/damesek/vega-charts-shadow-cljs
+https://github.com/damesek/vega-charts-shadow-cljs <BR>
 `[org.clojars.baader/vega-charts "0.3.0"]`
 
 
