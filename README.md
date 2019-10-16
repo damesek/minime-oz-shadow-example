@@ -1,3 +1,9 @@
+
+I created a mini Vega lib for shadow-cljs projects
+https://github.com/damesek/vega-charts-shadow-cljs
+`[org.clojars.baader/vega-charts "0.3.0"]`
+
+
 # MiniMe example of reagent + shadow-cljs + "Oz" setup
 
 I had issues to integrate to a large project the OZ lib (dependecy conflicts.. I can't solve). 
